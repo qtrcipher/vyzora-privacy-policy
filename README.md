@@ -84,9 +84,6 @@ This Privacy Policy may be updated as Vyzora changes. When the policy changes, t
 
 ## Contact
 
-For privacy questions, contact the developer through GitHub:
+For privacy questions, contact:
 
-https://github.com/qtrcipher
-
-Before App Store submission, replace or supplement this contact method with the final Vyzora support email.
-
+dev.hamam@gmail.com
